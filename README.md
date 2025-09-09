@@ -12,7 +12,7 @@ Given a dataset of labeled text samples (e.g., reviews), the model learns to cla
 - pandas
 - numpy
 
-### 🔍 Model Architecture
+###  Model Architecture
 - **Tokenizer:** Custom tokenizer with optional stopword removal
 - **Embedder:** TF-IDF vectorizer (max_features = 5000)
 - **Classifier:** Multinomial Naive Bayes
